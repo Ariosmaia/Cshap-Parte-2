@@ -1,0 +1,7 @@
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\bin\Debug\05-ByteBankMaoNaMassa.exe.config
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\bin\Debug\05-ByteBankMaoNaMassa.exe
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\bin\Debug\05-ByteBankMaoNaMassa.pdb
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\obj\Debug\05-ByteBankMaoNaMassa.csprojResolveAssemblyReference.cache
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\obj\Debug\05-ByteBankMaoNaMassa.csproj.CoreCompileInputs.cache
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\obj\Debug\05-ByteBankMaoNaMassa.exe
+c:\users\allan\source\repos\ByteBank\05-ByteBankMaoNaMassa\obj\Debug\05-ByteBankMaoNaMassa.pdb
